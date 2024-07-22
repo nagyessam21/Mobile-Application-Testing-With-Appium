@@ -1,0 +1,10 @@
+<suite name="GeneralStore">
+    <test name="NoName">
+        <classes>
+            <class name="LoginFormTests"/>
+            <class name="ProductsPageTests"/>
+            <class name="CartPageTests"/>
+            <class name="BrowserTests"/>
+        </classes>
+    </test>
+</suite>
